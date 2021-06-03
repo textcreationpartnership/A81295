@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true Presbyterian without disguise: or, a character of a Presbyterains wayes and actions, in verse.</title>
+            <author>Denham, John, Sir, 1615-1669.</author>
+         </titleStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81295</idno><idno type="EEBO-CITATION">99867129</idno>
+  <idno type="VID">169372</idno>
+  <idno type="EEBO-PROQUEST">2240917429</idno>
+  
+            <idno type="STC">Wing D1012</idno>
+            <idno type="STC">Thomason E1086_11</idno>
+            <idno type="STC">ESTC R208143</idno>
+            <idno type="PROQUEST">99867129</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867129e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169372)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1086[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true Presbyterian without disguise: or, a character of a Presbyterains wayes and actions, in verse.</title>
+                  <author>Denham, John, Sir, 1615-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Sir John Denham.</note>
+                  <note>Annotation on Thomason copy: "Apr 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Verse satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169372:1"/>
+            <p>THE TRUE PRESBYTERIAN WITHOUT DISGUISE: OR, A CHARACTER OF A PRESBYTERIANS WAYES and ACTIONS, in Verse.</p>
+            <q>
+               <l>Difficile est Satyram non scribere, namquis iniquae</l>
+               <l>Tam patiens urbis tam ferreus, ut teneat se?</l>
+               <bibl>
+                  <hi>Juv.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:169372:2"/>
+            <pb n="1" facs="tcp:169372:2"/>
+            <head>The True <hi>Presbyterian</hi> without Dis<g ref="char:EOLhyphen"/>guise: Or, a <hi>Character</hi> of a <hi>Presby<g ref="char:EOLhyphen"/>terians</hi> Waies and Actions.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg>
+                  <hi>Presbyter</hi> is such a Monstrous thing</l>
+               <l>That loves Democrasy, and hates a King.</l>
+               <l>For Royal Issue never making prayers,</l>
+               <l>Since Kingdomes (as he thinks) should have no Heirs</l>
+               <l>But stand Elective; that the holy Crew</l>
+               <l>May (when their zeal transports them) chuse a new.</l>
+               <l>And is so strongly grounded in belief,</l>
+               <l>That Antichrist his coming will be brief,</l>
+               <l>As he dares swear (if he dares swear at all)</l>
+               <l>The Quakers are ordain'd to make him fall;</l>
+               <l>From whence he growes impatient, and he sayes,</l>
+               <l>The Wisest Counsels are but fond delayes</l>
+               <l>To hold him lingring in deluding hope,</l>
+               <l>Else long ere this he had subdu'd the Pope.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Presbyter</hi> is he, whose heart doth hate</l>
+               <l>The man (how good so e're) advanc'd in State;</l>
+               <l>And finding his disease a Leprosie,</l>
+               <l>Doth judge that all in Court <hi>Gehesies</hi> be,</l>
+               <l>Whilst he himself in bribery is lost,</l>
+               <l>And lies for gain unto the Holy-Ghost.</l>
+               <pb n="2" facs="tcp:169372:3"/>
+               <l>When though in shew he seems a grave <hi>Tobias,</hi>
+               </l>
+               <l>He is within a very <hi>Annanias.</hi>
+               </l>
+               <l>The Lay-Profane-Name (Lord) he hates and says</l>
+               <l>It is th' approaching sign of the last days</l>
+               <l>For Church-Men to be stiled so; nay more,</l>
+               <l>'Tis Usher to the <hi>Babilonian</hi> Whore.</l>
+               <l>The Bishops Habits, with the Tip and Rochets</l>
+               <l>Beget in him such fancies and such Crochets,</l>
+               <l>That he believes it is a thing as Evil</l>
+               <l>To look on them, as to behold the Devil.</l>
+               <l>And for the Government Episcopal,</l>
+               <l>That he condemns to be the worst of all;</l>
+               <l>Because the primest times did suffer no man</l>
+               <l>T' exalt himself, for all was held in common;</l>
+               <l>Yet 'tis most strange, when he is most Zeal-sick</l>
+               <l>Nothing can cure him but a Bishoprick,</l>
+               <l>Where once invested, proves without all scope</l>
+               <l>Insulting boundless, more than any Pope.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Presbyter</hi> is he, that's never known</l>
+               <l>To think on others good besides his own;</l>
+               <l>And all his Doctrine is of Hope, and Faith,</l>
+               <l>For Charity, 'tis Popery he saith;</l>
+               <l>And is not only silent in good works,</l>
+               <l>But in his practice too, resembles Turks.</l>
+               <l>The Churches Ornaments, the Ring of Bells,</l>
+               <l>(Can he get Power) 'tis ten to one he sells,</l>
+               <l>For his well tun'd ears cannot abide</l>
+               <l>A Jangling noise, but when his Neighbours chide.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Presbyter</hi> is he, that never prayes,</l>
+               <l>But all the world must hear him what he sayes,</l>
+               <l>And in that fash'on too, that all may see,</l>
+               <l>He is an open Modern Pharisee;</l>
+               <pb n="3" facs="tcp:169372:3"/>
+               <l>The name of Sabbath still he keeps ('tis true)</l>
+               <l>But so he is lesse Christian, more a Jew,</l>
+               <l>Nor setled form of prayer his zeal will keep,</l>
+               <l>But preacheth all his purer flock a sleep,</l>
+               <l>To study what to say, were for to doubt</l>
+               <l>Of a presumed grace to hold him out,</l>
+               <l>And to be learn'd, is too too humane thought,</l>
+               <l>Th' Apostles all (he sayes) were men untaught,</l>
+               <l>And thus he proves it for the best to be</l>
+               <l>A simple-Teacher of Divinity.</l>
+               <l>The Reverence which Ceremony brings,</l>
+               <l>Into the Sacred Church, his Conscience stings,</l>
+               <l>Which is so void of grace, and so ill bent</l>
+               <l>That kneel he will not at the Sacrament,</l>
+               <l>But sits more like a Judge, than like a Sinner,</l>
+               <l>And takes it just, as he receives his dinner:</l>
+               <l>Thus do his saucy postures speak his Sin,</l>
+               <l>For as without, such is his Heart within.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Presbyter</hi> is he, who doth defame</l>
+               <l>Those Reverend Ancestors from whence he came,</l>
+               <l>And like a Gracelesse Child, above all other</l>
+               <l>Denies respect, unto the Church his Mother,</l>
+               <l>His Cosen Protestants he scorns, as men</l>
+               <l>Not sav'd, because they are not Brethren:</l>
+               <l>And lest his Doctrine should be counted new,</l>
+               <l>He wears an antient beard to make it true.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Presbyter</hi> is he, that thinks his place</l>
+               <l>At every table is to say the Grace;</l>
+               <l>When the good-man, or when his child hath paid,</l>
+               <l>And thanks to God for King, and Realm, hath said,</l>
+               <l>He then starts up, and thinks his self a Debter</l>
+               <l>Till he doth cry (I pray thank God better)</l>
+               <pb n="4" facs="tcp:169372:4"/>
+               <l>When long he prayes for every living thing,</l>
+               <l>But for the Catholick Church, and for the King.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Presbyter</hi> is he, would wondrous fain</l>
+               <l>Be call'd Disciple by the hole train.</l>
+               <l>Which to be worthy of he'l stray and erre</l>
+               <l>Ten miles to hear a silenc'd Minister;</l>
+               <l>He loves a Vesper Sermon, hates a mattin</l>
+               <l>As he detests the Fathers nam'd in Lattin,</l>
+               <l>And as he <hi>Friday, Sunday</hi> makes in dyet,</l>
+               <l>Because the King, and Cannons do deny it,</l>
+               <l>The self-same nature makes him to repair</l>
+               <l>To Week-day Lectures, more than <hi>Sundays</hi> prayer.</l>
+               <l>And as the man, must need's in all things erre,</l>
+               <l>He starves his Parson, crams his Lecturer.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Presbyter</hi> is he, whose heart is bent</l>
+               <l>To crosse the Kings designes in Parliament,</l>
+               <l>Where whilst the place of Burges he doth bear,</l>
+               <l>He thinks he owes but small Allegiance there;</l>
+               <l>But stands at distance, as some higher thing,</l>
+               <l>Like a Licurgus, or a kind of King.</l>
+               <l>Then as an Errant times, bold Knights were wont</l>
+               <l>To seek out Monsters, and adventures hunt;</l>
+               <l>So with his wit, and valor, he doth try</l>
+               <l>How the Prerogative he may defie;</l>
+               <l>Thus he attempts, and first he fain would know</l>
+               <l>If that the Soveraign Power, be new, or no:</l>
+               <l>Or if it were not fitter, Kings should be</l>
+               <l>Confin'd unto a limited degree;</l>
+               <l>And for his part likes a Plebean State,</l>
+               <l>Where the poor Mechanicks may still debate</l>
+               <l>All matters at their pleasures, not confin'd</l>
+               <l>To this, or that, but as they cause do find;</l>
+               <pb n="5" facs="tcp:169372:4"/>
+               <l>When though that every voyce against him go,</l>
+               <l>He'l slay the Giant, with his single (no.)</l>
+               <l>He in his heart, though at a poor expence,</l>
+               <l>Abhors a gift that's call'd Benevolence;</l>
+               <l>For as his mind, so is his bounty bent,</l>
+               <l>And still unto the King malevolent.</l>
+               <l>He is the States-man, just enough precise,</l>
+               <l>The nearest Government to Scandalize.</l>
+               <l>Not like a Drunkard, when he doth expose</l>
+               <l>In secret underneath the silent Rose.</l>
+               <l>To use his freedom, when the Pot might bear</l>
+               <l>The faults which closely he committeth there,</l>
+               <l>But <hi>Shimei</hi>-like, to all the men he meets,</l>
+               <l>He spews his frantick Venome in the Streets:</l>
+               <l>And though he sayes the Spirit moves him to it,</l>
+               <l>The Devil is that Spirit made him do it.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Presbyter</hi> is he, (else there is none)</l>
+               <l>Thinks the King will change Religion,</l>
+               <l>His doubtfull thought, like to his Moon-blind eyes,</l>
+               <l>Makes the beast start at every shape he spyes.</l>
+               <l>And what his fond mistaken fancy breed,</l>
+               <l>He doth believe as firmly as the Creed:</l>
+               <l>From whence he doth proclaim a Fast to all</l>
+               <l>That he allowes to be Canonicall;</l>
+               <l>And then he consecrates a secret Room,</l>
+               <l>Where none but the Elected Sisters come:</l>
+               <l>When being met, doth Treason boldly Teach,</l>
+               <l>And will not Fast and Pray, but Fast and Preach;</l>
+               <l>Then strains a Text, whereon he may relate</l>
+               <l>The churches danger, discontent of State,</l>
+               <l>And hold them there so long in fear and doubt,</l>
+               <l>That some do think 'tis danger to go out;</l>
+               <pb n="6" facs="tcp:169372:5"/>
+               <l>Believing if they hear the seeling crack,</l>
+               <l>The Bishops are behind them, at their back;</l>
+               <l>And so they sit bewailing one another,</l>
+               <l>Each groaning Sister howling to her Brother,</l>
+            </lg>
+            <lg>
+               <l>A <hi>Presbyter</hi> is he has Womans fears,</l>
+               <l>And yet will set the whole world by the ears:</l>
+               <l>Hee'l raile in publick if the King deny,</l>
+               <l>To let the Quarrel of the <hi>Spaniard</hi> die;</l>
+               <l>He storms to hear in <hi>France</hi> the Wars should cease,</l>
+               <l>And that by Treaty there should be a Peace:</l>
+               <l>For sure (saith he) the Church doth Honour want,</l>
+               <l>When 'tis not truly called Militant,</l>
+               <l>And in plain truth, as far as I can find,</l>
+               <l>He bears the self-same Treasonable mind</l>
+               <l>As doth the <hi>Jesuit,</hi> for though they be</l>
+               <l>Tongue-Enemies in shew, their hearts agree.</l>
+               <l>And both professed foes, alike consent</l>
+               <l>Both to betray the Anointed Innocent,</l>
+               <l>For though their manners differ, yet they aim</l>
+               <l>That either may the King or Kingdom maim:</l>
+               <l>The difference is this way understood,</l>
+               <l>One in Sedition, t'other deals in blood.</l>
+               <l>Their Characters abridg'd if you will have,</l>
+               <l>Each seems a Saint, yet either proves a Knave.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
